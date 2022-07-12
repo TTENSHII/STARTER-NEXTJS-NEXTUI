@@ -26,7 +26,7 @@ export const SwitchThemebtn = () => {
 
 export const StarBtn = () => {
     return (
-      <Link href="https://github.com/TTENSHII/NextJs-NextUi-Starter" target="_blank">
+      <Link href="https://github.com/TTENSHII/STARTER-NEXTJS-NEXTUI" target="_blank">
         <Button
           shadow
           size="md"
