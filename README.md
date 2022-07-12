@@ -1,6 +1,6 @@
 <h1 align="center">◦•● NEXTJS NEXTUI starter ●•◦</h1>
 
-## What is NEXTJS NEXTUI starter? :bookmark_tabs:
+## What is that? :bookmark_tabs:
 
 - A starter project for Next.JS and NEXTUI.
 - Easy theme management (dark/light).
