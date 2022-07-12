@@ -1,0 +1,21 @@
+{
+  "name": "starter-nextjs-nextui",
+  "version": "1.0.0",
+  "description": "Starter for a react app using nextjs and nextui",
+  "main": "index.js",
+  "scripts": {
+    "build": "next build",
+    "start": "next start",
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TTENSHII/STARTER-NEXTJS-NEXTUI.git"
+  },
+  "author": "Tenshi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TTENSHII/STARTER-NEXTJS-NEXTUI/issues"
+  },
+  "homepage": "https://github.com/TTENSHII/STARTER-NEXTJS-NEXTUI#readme"
+}
