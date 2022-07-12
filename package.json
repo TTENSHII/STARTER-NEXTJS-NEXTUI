@@ -17,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/TTENSHII/STARTER-NEXTJS-NEXTUI/issues"
   },
-  "homepage": "https://github.com/TTENSHII/STARTER-NEXTJS-NEXTUI#readme"
+  "homepage": "https://github.com/TTENSHII/STARTER-NEXTJS-NEXTUI#readme",
+  "dependencies": {
+    "@nextui-org/react": "^1.0.0-beta.9",
+    "next": "^12.2.2",
+    "next-themes": "^0.2.0",
+    "react": "^18.2.0"
+  }
 }
