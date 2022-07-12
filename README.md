@@ -1,4 +1,4 @@
-<h1 align="center">◦•● Next.JS NEXTUI starter ●•◦</h1>
+<h1 align="center">◦•● NEXTJS NEXTUI starter ●•◦</h1>
 
 ## What is NEXTJS NEXTUI starter? :bookmark_tabs:
 
