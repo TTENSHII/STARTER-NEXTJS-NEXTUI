@@ -4,6 +4,7 @@
 
 - A starter project for Next.JS and NEXTUI.
 - Easy theme management (dark/light).
+- Easy deployment on vercel
 
 ## Install requirements :flower_playing_cards:
 - [NodeJS](https://nodejs.org/en/download/)
